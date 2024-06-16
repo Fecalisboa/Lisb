@@ -1,4 +1,4 @@
-# 🎥 SoniTranslate 🈷️
+# 🎥 Lisbon 🈷️
 
 🎬 Video Translation with Synchronized Audio 🌐
 
